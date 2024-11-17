@@ -1,3 +1,12 @@
+#メッセージアプリケーションの概要
+■Typescript
+■ファイアベース
+■グーグルのAPI
+■node.js
+を利用して作成した、ディスコード風のWEBアプリケーション
+実際にデプロイしておりサービスを利用可能になっている。
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
